@@ -1,10 +1,10 @@
-# 🧵 Java Threads: Concept & Demonstration
+# Java Threads: Concept & Demonstration
 
-## 📘 What are Threads in Java?
+## What are Threads in Java?
 
 A **thread** in Java is a lightweight subprocess or the smallest unit of a CPU execution. Java supports multithreading, which allows multiple threads to run concurrently, making programs more efficient and responsive.
 
-### ⚙️ Key Concepts
+### Key Concepts
 
 - **Multithreading**: Running multiple threads simultaneously.
 - **Thread Class**: Java provides a `Thread` class to create and control threads.
